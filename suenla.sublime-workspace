@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"red",
+				"logo-red"
+			],
+			[
+				"logo",
+				"logo-red-bright"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"new file",
+				"ANF: New File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michael/Sites/suenla/_config.yml",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/page-about.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/page-services.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_variables.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/js/scripts.js",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/page-custom.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/modules/_forms.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/page-home.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_typography.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_config.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_grid.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_mixins.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_functions.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/header.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/images/arrow-down.svg",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/editor-style.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_normalize.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/bones.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/functions.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/modules/_buttons.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/page-faq.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/page-contact.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/partials/_ie_grid.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/breakpoints/_base.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/footer.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/index.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/comments.php",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/modules/_splash.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/scss/style.scss",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/library/css/style.css",
+		"/Users/michael/Sites/ufc/wp-content/themes/eddiemachado-bones-cede2ce/readme.md",
+		"/Users/michael/Sites/ufc/wp-content/index.php",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/school.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/general.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/_dashboard_tab_courses.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/edit.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/_dashboard_tab_images.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/_dashboard_tab_basic.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/topics.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/variables/global.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/javascripts/transition.js",
+		"/Users/michael/Dropbox/programmer_app/app/assets/javascripts/bootstrap-collapse.js",
+		"/Users/michael/Dropbox/programmer_app/app/assets/javascripts/modal.js",
+		"/Users/michael/Dropbox/programmer_app/config/environments/test.rb",
+		"/Users/michael/Dropbox/programmer_app/config/application.rb",
+		"/Users/michael/Dropbox/programmer_app/app/views/home/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/layouts/application.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/controllers/leadgen_controller.rb",
+		"/Users/michael/Dropbox/programmer_app/app/models/course.rb",
+		"/Users/michael/Dropbox/programmer_app/app/controllers/school_dashboard_controller.rb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/javascripts/school.js",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/landing.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/blogs/show.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/matcher.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/about.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/blog.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/blogs/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/controllers/blogs_controller.rb",
+		"/Users/michael/Dropbox/programmer_app/app/views/bootcamps/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/matcher/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/about/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/matcher/show.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/topics_show.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/show.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/home/privacy.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/devise/registrations/new.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/devise/passwords/new.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/application/_scholarship_box.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/application/_job_box.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/application/_topic_box.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/courses/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/courses/show.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/index.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/reviews.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/_new_review_form_attributes.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/_reviews.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/home/ethics.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/new.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/courses/_course_box.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/courses/_course_review_form.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/courses/_course_reviews.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/topics/_new_review_form.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/home/schools.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/signup.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/application.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/devise/sessions/new.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/login.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/feedback.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/assets/stylesheets/leadgen.css.scss",
+		"/Users/michael/Dropbox/programmer_app/app/views/o_auth_registration/create.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/o_auth_registration/finish_signup.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/o_auth_registration/finish_signup.html.erb~",
+		"/Users/michael/Dropbox/programmer_app/app/views/home/terms.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/views/feedbacks/new.html.erb",
+		"/Users/michael/Dropbox/programmer_app/app/assets/images/switch-bg.jpg",
+		"/Users/michael/Dropbox/programmer_app/app/views/tutorials/index.html.erb",
+		"/Users/michael/foneem/foneem/template/voicebank.html",
+		"/Users/michael/foneem/foneem/template/r-soon.html",
+		"/Users/michael/foneem/foneem/template/r1-soon.html",
+		"/Users/michael/foneem/foneem/template/index.html",
+		"/Users/michael/foneem/foneem/template/how.html",
+		"/Users/michael/foneem/foneem/template/about.html",
+		"/Users/michael/foneem/foneem/template/careers.html",
+		"/Users/michael/foneem/foneem/admin.py",
+		"/Users/michael/foneem/foneem/static/css/sass/libraries/_variables.scss",
+		"/Users/michael/foneem/foneem/__init__.py",
+		"/Users/michael/Sites/suenlabs/index.html",
+		"/Users/michael/foneem/foneem/static/css/sass/sections/_how.scss",
+		"/Users/michael/foneem/foneem/static/css/sass/libraries/_mixins.scss",
+		"/Users/michael/foneem/foneem/static/css/sass/application.scss",
+		"/Users/michael/foneem/foneem/static/css/sass/sections/_grayscale.scss",
+		"/Users/michael/foneem/foneem/static/css/lightSlider.css",
+		"/Users/michael/foneem/foneem/static/css/sass/vendor/_bootstrap.scss",
+		"/Users/michael/foneem/foneem/static/css/sass/sections/_record-lo-fi.scss",
+		"/Users/michael/foneem/foneem/static/css/animate.css",
+		"/Users/michael/foneem/foneem/static/js/tp/easing-scrolling.js",
+		"/Users/michael/foneem/foneem/static/js/tp/easing-scrolling-ck.js",
+		"/Users/michael/Downloads/animate.css",
+		"/Users/michael/foneem/foneem/static/js/hvb-audio-animation-ck.js",
+		"/Users/michael/foneem/foneem/static/css/application.css",
+		"/Users/michael/foneem/foneem/static/css/sass/sections/_record.scss",
+		"/Users/michael/foneem/foneem/template/record.html",
+		"/Users/michael/Desktop/introduce",
+		"/Users/michael/foneem/foneem/static/css/animations.css",
+		"/Users/michael/foneem/foneem/template/calibrate.html",
+		"/Users/michael/foneem/foneem/template/register1.html",
+		"/Users/michael/foneem/foneem/template/register-backup.html",
+		"/Users/michael/foneem/foneem/template/register.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/michael/foneem/",
+			"/Users/michael/Dropbox/programmer_app/app/assets/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"border-top",
+			"#splash",
+			"background-size",
+			"transition",
+			"box-sizing",
+			"a {",
+			"70px 80px",
+			"excerpt",
+			"$lato",
+			"wrap",
+			"height",
+			"jquery",
+			"cf",
+			".cf",
+			"cf",
+			"course",
+			".course-title",
+			"media ",
+			"#images",
+			"panel-heading",
+			"indicator",
+			"caret-",
+			"#courses",
+			"label",
+			"nth-of-type(1)",
+			"dashboard-save",
+			"dashboard-field-descr",
+			"basic",
+			"textarea",
+			".js",
+			"jquery",
+			".btn",
+			"p",
+			"blog-post",
+			"<a href=",
+			"topic-title",
+			"btn-group",
+			"overflow:",
+			"navbar",
+			"20%",
+			".btn",
+			"review-",
+			"resources",
+			"margin-left:",
+			".btn",
+			"reviewer-avatar",
+			"review-headline",
+			"avatar-container",
+			"bootcamp-summary",
+			"vocational",
+			"email",
+			"review-form {",
+			"review-scores",
+			"next-section",
+			"p.counter",
+			"switcher_label",
+			"footer",
+			"contact",
+			"coming-soon",
+			"donate",
+			"a",
+			"h1 {",
+			".btn-learn",
+			"vocalid",
+			"grace",
+			"mc_emb",
+			"press-section",
+			"font-family-sans-serif",
+			"font-family-sans",
+			"font-family",
+			"body {",
+			"intro-text",
+			"modal",
+			"span",
+			".jpg",
+			"vocalid",
+			"register",
+			"about",
+			"intro-text",
+			"learn-image",
+			"20px",
+			"modal-open",
+			"record",
+			"h2",
+			".btn-learn",
+			"margin-right: 20px",
+			".row",
+			"col-inside",
+			"intro-sub",
+			"gray",
+			"section",
+			"record",
+			"hr",
+			"intro-text",
+			"ways-",
+			"opacity",
+			"calibrate",
+			"i.fa-play",
+			"msuen89@gmail.com",
+			"wall-cell",
+			"cursor",
+			"play-sentence",
+			"analyser",
+			"hvb_",
+			"HEAD",
+			"hvb_audio",
+			".hvb_",
+			"#tutorial-modal",
+			"tutorial",
+			".navbar-brand",
+			"hvb_volume",
+			"font-family",
+			"canvas",
+			"modal",
+			"31px",
+			".hvb_sentence",
+			".second-section",
+			".first-section",
+			"review-block",
+			".btn-bootcamps",
+			"footer",
+			"front",
+			"row-fluid",
+			"flipper",
+			"navbar-form",
+			"#input.focus",
+			"980",
+			"nav-collapse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rea",
+				"README.rdoc"
+			],
+			[
+				"applicantind",
+				"app/views/applicants/index.html.erb"
+			],
+			[
+				"topic",
+				"app/models/topic.rb"
+			],
+			[
+				"read",
+				"README.rdoc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
