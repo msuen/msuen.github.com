@@ -4,3 +4,6 @@ theme :
 ---
 {% include JB/setup %}
 {% include themes/bootstrap-3/default.html %}
+{% if page && {{ page.css }} %}
+  <link rel='stylesheet' type='text/css' href='{{ ASSET_PATH }}/css/{{ page.css }}.css' />
+{% endif %}
