@@ -17,6 +17,16 @@ html, body {
   font-size: 24px;
 }
 
+::-moz-selection { /* Code for Firefox */
+    color: #22d26c;
+    background: none;
+}
+
+::selection {
+    color: #22d26c; 
+    background: none;
+}
+
 a {
   color: #333;
   padding-bottom: 1px;
@@ -52,19 +62,18 @@ a:hover {
 #wrap {
   min-height: 100%;
   height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
   /* Negative indent footer by its height */
-  margin: 0 auto -100px;
+  /* margin: 0 auto -100px; */
   /* Pad bottom by footer height */
-  padding: 0 0 100px;
+  /* padding: 0 0 100px; */
 }
 
 /* Set the fixed height of the footer here */
 #footer {
-  height: 100px;
-  background-color: #f5f5f5;
-}
-
-#footer {
+  /*height: 100px;*/
+  height: 60px;
   font-size: 0.75rem;
   background-color: #f7f7f7;
 }
@@ -75,12 +84,12 @@ a:hover {
 
 #footer .container a {
   color: #ccc;
-  border-bottom: 2px #ccc solid;
+  border-bottom: 2px #ddd solid;
 }
 
 #footer .container p {
   font-size: 1em;
-  margin: 0 0 10px;
+  /* margin: 0 0 10px; */
   display: inline-block;
 }
 
@@ -116,7 +125,7 @@ a:hover {
   border: 2px #ccc solid;
 }
 
-#mc_embed_signup .email, #mc_embed_signup .button {
+#footer #mc_embed_signup .email, #footer #mc_embed_signup .button {
   height: 39px;
 }
 
@@ -151,6 +160,37 @@ a:hover {
 .signup h1 {
   font-size: 4em;
 }
+
+.signup h1 em {
+  font-style: normal;
+  color: #22d26c;
+}
+
+.signup #mc_embed_signup {
+  margin-top: 40px;
+  border-left: 14px #22d26c solid;
+  padding-left: 20px;
+}
+
+.signup .email {
+  margin-bottom: 10px;
+  height: 55px;
+}
+
+.signup .button {
+  padding: 5px 40px;
+  height: 55px;
+}
+
+.signup .email, .signup .button, .signup .subscribe, .signup .mc-field-group {
+  width: 100%;
+}
+
+.signup .note {
+  margin-top: 10px;
+  color: #999;
+  font-size: 0.75em;
+} 
 
 /* Posts Index */
 
@@ -242,10 +282,24 @@ a:hover {
   html, body { font-size: 16px; }
 }
 
+@media only screen and (min-width: 481px) {
+  .signup .email { width: 80%; }
+  .signup .button { width: 50%;}
+  .signup .note { font-size: 0.8em; width: 80%; }
+}
+
 @media only screen and (min-width: 768px) {
   .page-header {
     padding-top: 80px;
   }
+
+  #mc_embed_signup_scroll {
+    display: flex;
+  }
+
+  .signup .email { width: 100%; }
+
+  .signup .note { font-size: 0.575em; }
 
   .posts {
     padding-left: 40px;
@@ -264,12 +318,19 @@ a:hover {
 }
 
 @media only screen and (min-width: 979px) {
-  #mc_embed_signup {
+  #footer #mc_embed_signup {
     display: inline-block;
     margin-left: 10px;
   }
+
+  .signup .note { font-size: 0.5em; }
+
   #footer p {
-    line-height: 100px;
+    line-height: 60px;
     margin-bottom: 0px;
   }
+ /* #footer p {
+    line-height: 100px;
+    margin-bottom: 0px;
+  } */
 }
