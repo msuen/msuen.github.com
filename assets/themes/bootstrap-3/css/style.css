@@ -89,6 +89,7 @@ a:hover {
 
 #footer .container p {
   font-size: 1em;
+  line-height: 1.4;
   /* margin: 0 0 10px; */
   display: inline-block;
 }
@@ -158,7 +159,7 @@ a:hover {
 }
 
 .signup h1 {
-  font-size: 4em;
+  font-size: 3.875em;
 }
 
 .signup h1 em {
