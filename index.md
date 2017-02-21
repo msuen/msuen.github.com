@@ -8,7 +8,7 @@ title: Suen La
   <h1><strong>suen·la<em>~</em></strong></h1>
   <p><strong>1.</strong> A Chinese phrase (算啦), meaning "forget about it."</p>
   <p><strong>2.</strong> A hilarious pun using my last name.</p>
-  <p><strong>3.</strong> A weekly dispatch about creativity, culture, &amp; being a twentysomething—<strong>coming in January 2016.</strong></p>
+  <p><strong>3.</strong> A weekly dispatch about creativity, culture, &amp; being a twentysomething—<strong>coming on April 1, 2017.</strong></p>
   <!-- Begin MailChimp Signup Form -->
         <div id="mc_embed_signup">
         <form action="//whoismichaelsuen.us10.list-manage.com/subscribe/post?u=4ece89052ce51cd658a6e3155&amp;id=12c6ad1202" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
